@@ -1,5 +1,2 @@
 Ragunath Apoorva Suresh is a passionate frontend and aspiring full-stack developer with a strong foundation in information technology and a focus on building intuitive, efficient, and scalable solutions. With experience in modern web technologies, he combines clean design principles with robust backend logic to create impactful digital experiences.
-
-His interests span cybersecurity, blockchain applications, and AI-driven innovations, with a goal to develop future-ready projects that contribute to both industry and academic research, including IEEE-standard publications.
-
-Dedicated to continuous learning and problem-solving, Ragunath approaches each project with precision, creativity, and a commitment to delivering high-quality results.
+His interests span cybersecurity, blockchain applications, and AI-driven innovations, with a goal to develop future-ready projects that contribute to both industry and academic research, including IEEE-standard publications.Dedicated to continuous learning and problem-solving, Ragunath approaches each project with precision, creativity, and a commitment to delivering high-quality results.
